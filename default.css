@@ -1876,7 +1876,7 @@ ul.contact li a.icon-rss:before
 {
 	overflow: hidden;
 	background: url(images/header.jpg) no-repeat center bottom;
-	background-size: 100% 80%;
+	background-size: 100% 100%;
 }
 
 #header
